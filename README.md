@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-mnemosyne--the-memory-sovereign.
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Mnemosyne: The Memory Sovereign.' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 50NEW_TOPIC: SKILLS: [multi-agent_coordination, system_design, deployment]METRICS:Coordination: 1Technical Complexity: 8Efficiency: 1Clarity: 1SUGGEST_UI: FalseORIGINAL ERROR LOGS:DeepSeek/AI model di
